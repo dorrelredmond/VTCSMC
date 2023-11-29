@@ -1,0 +1,13 @@
+name = "Advanced Music Mod"
+filename = "advanced-music-mod-fabric-1.0.1+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/azvN9Im1/versions/FLeyd62e/advanced-music-mod-fabric-1.0.1%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "f067b7c89f52e55bb7454ab94eaeb712d10170bc"
+
+[update]
+[update.modrinth]
+mod-id = "azvN9Im1"
+version = "FLeyd62e"

@@ -1,0 +1,13 @@
+name = "Edibles"
+filename = "edibles-1.20.1-4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rjl8pCZ9/versions/1pLMRQqy/edibles-1.20.1-4.2.jar"
+hash-format = "sha1"
+hash = "629626450f7346f1f95af65fc0a6551d5e1259c4"
+
+[update]
+[update.modrinth]
+mod-id = "Rjl8pCZ9"
+version = "1pLMRQqy"

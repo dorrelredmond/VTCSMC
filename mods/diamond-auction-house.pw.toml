@@ -1,0 +1,13 @@
+name = "Diamond Auction House"
+filename = "diamondsauctionhouse-1.1.5+1.20.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/N4pbTGQv/versions/D9UVzLaB/diamondsauctionhouse-1.1.5%2B1.20.jar"
+hash-format = "sha1"
+hash = "41ed33445661e44368bffa2ac40c9bef4e9a3fb2"
+
+[update]
+[update.modrinth]
+mod-id = "N4pbTGQv"
+version = "D9UVzLaB"

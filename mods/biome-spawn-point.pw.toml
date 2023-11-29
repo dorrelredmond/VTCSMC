@@ -1,0 +1,13 @@
+name = "Biome Spawn Point"
+filename = "biomespawnpoint-1.20.1-2.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mtfbtanr/versions/l4b7dN0l/biomespawnpoint-1.20.1-2.1.jar"
+hash-format = "sha1"
+hash = "afdc98c15cddf58fee588c0b56544af1e5e14069"
+
+[update]
+[update.modrinth]
+mod-id = "mtfbtanr"
+version = "l4b7dN0l"
